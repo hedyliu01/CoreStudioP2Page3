@@ -47,3 +47,11 @@
     margin-right: 3cm;
     margin-bottom: 5cm;
   }
+
+  .button{
+    font-family:"Mayenne Sans Regular";
+    font-size: 25px;
+   text-align: right;
+    margin-right: 3cm;
+    text-decoration: underline;
+ }
